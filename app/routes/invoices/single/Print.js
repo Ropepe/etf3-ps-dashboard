@@ -33,7 +33,7 @@ export default () => (
                <div class="flex flex-col items-end">
                   <Logo2 />
                   <div class="mt-2 text-gray-400 text-base text-right">
-                     <div>Demo App Company Name</div>
+                     <div>City Events</div>
                      <div>Address Line 1</div>
                      <div>Address Line 2</div>
                   </div>

@@ -53,6 +53,6 @@ export default () => (
          params={1}
          onResolve={() => import(/* webpackChunkName: "overlays" */ '../overlays').then((x) => x.default)}
       />
-      <DocumentTitle append text="Demo App" separator=" | " />
+      <DocumentTitle append text="Dashboard" separator=" | " />
    </cx>
 );
